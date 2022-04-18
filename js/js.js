@@ -180,23 +180,23 @@ $('#box ul').html() === '' ? $('#box').css('height','0px') : $('#box').css('heig
 var search = {
   data: [{
     name: '百度',
-    img: 'img/logo_1.jpg',
+    img: 'https://cdn.jsdelivr.net/gh/jwfoxdh/nav/img/logo_1.jpg',
     url: 'https://www.baidu.com/s?wd='
   }, {
     name: '谷歌',
-   img: 'img/logo_2.jpg',
+   img: 'https://cdn.jsdelivr.net/gh/jwfoxdh/nav/img/logo_2.jpg',
     url: 'https://www.google.com/search?q='
   }, {
     name: '必应',
-    img: 'img/logo_3.jpg',
+    img: 'https://cdn.jsdelivr.net/gh/jwfoxdh/nav/img/logo_3.jpg',
     url: 'https://cn.bing.com/search?q='
  }, {
     name: '好搜',
-    img: 'img/logo_4.jpg',
+    img: 'https://cdn.jsdelivr.net/gh/jwfoxdh/nav/img/logo_4.jpg',
     url: 'https://www.so.com/s?q='
   }, {
     name: '搜狗',
-    img: 'img/logo_5.jpg',
+    img: 'https://cdn.jsdelivr.net/gh/jwfoxdh/nav/img/logo_5.jpg',
     url: 'https://www.sogou.com/web?query='
   }]
 }
